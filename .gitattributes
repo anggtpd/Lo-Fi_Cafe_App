@@ -1,6 +1,13 @@
-# Tell GitHub linguist to ignore these
-*.gradle linguist-language=Groovy
-*.lock linguist-generated=true
-android/** linguist-vendored
+# Treat all Dart files as the main language
+*.dart linguist-language=Dart
+
+# Mark generated or vendor files so GitHub ignores them for language stats
 ios/** linguist-vendored
+android/** linguist-vendored
 macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+build/** linguist-generated
+*.g.dart linguist-generated
+*.lock linguist-generated
+*.yaml linguist-generated
