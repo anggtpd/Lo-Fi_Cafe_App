@@ -15,7 +15,7 @@ Lo-Fi Cafe is a simple yet elegant mobile application that makes it easier for c
 
 | Home Page                        | Cart Page                        |
 |----------------------------------|----------------------------------|
-| ![Home Screenshot](home.png) | ![Cart Screenshot](cart.png) |
+| <img src="home.png" width="100"/> | <img src="cart.png" width="100"/> |
 
 
 ## 📦 Download
