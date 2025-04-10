@@ -1,0 +1,6 @@
+# Tell GitHub linguist to ignore these
+*.gradle linguist-language=Groovy
+*.lock linguist-generated=true
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
