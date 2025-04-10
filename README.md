@@ -22,7 +22,7 @@ Lo-Fi Cafe is a simple yet elegant mobile application that makes it easier for c
 
 You can download the latest APK directly here:
 
-📥 [Download APK](https://github.com/anggtpd/lofi-cafe/app-arm64-v8a-release.apk)
+📥 [Download APK](https://github.com/anggtpd/Lo-Fi_Cafe_App/blob/main/app-arm64-v8a-release.apk)
 
 ## 🚀 Getting Started
 
