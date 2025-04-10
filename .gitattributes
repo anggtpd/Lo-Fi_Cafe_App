@@ -2,12 +2,25 @@
 *.dart linguist-language=Dart
 
 # Mark generated or vendor files so GitHub ignores them for language stats
-ios/** linguist-vendored
 android/** linguist-vendored
-macos/** linguist-vendored
-windows/** linguist-vendored
-linux/** linguist-vendored
 build/** linguist-generated
 *.g.dart linguist-generated
 *.lock linguist-generated
 *.yaml linguist-generated
+ios/* linguist-vendored
+macos/* linguist-vendored
+web/* linguist-vendored
+windows/* linguist-vendored
+linux/* linguist-vendored
+*.yaml linguist-vendored
+*.sh linguist-vendored
+*.plist linguist-vendored
+*.gradle linguist-vendored
+*.xml linguist-vendored
+*.java linguist-vendored
+*.kt linguist-vendored
+*.swift linguist-vendored
+*.bat linguist-vendored
+*.rb linguist-vendored
+*.mk linguist-vendored
+
