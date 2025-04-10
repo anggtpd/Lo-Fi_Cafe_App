@@ -1,0 +1,1 @@
+ C:\\Users\\900393\\Documents\\flutter\\lofi_cafe_app\\.dart_tool\\flutter_build\\5477199f2bdcd5f31bf0737bbdb3a2f7\\native_assets.yaml: 
